@@ -42,7 +42,7 @@ Unlike binary "forged vs. authentic" datasets, BanglaForge reflects real-world c
 
 <!-- PLACE: Fig. 1 - Original and forged document samples (Cash Memo & Tender examples) -->
 <p align="center">
-  <img src="assets/fig1_samples.png" width="800">
+  <img src="assets/1.png" width="800">
   <br>
   <em>Original and forged document samples from BanglaForge dataset. Forged parts are circled in red.</em>
 </p>
