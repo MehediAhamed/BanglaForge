@@ -158,4 +158,4 @@ git clone https://github.com/MehediAhamed/BanglaForge.git
 ## 📄 License
 
 <!-- PLACE: Specify license (e.g., MIT, CC BY 4.0) -->
-This dataset is released under the [LICENSE NAME] license.
+This dataset is released under the MIT license.
