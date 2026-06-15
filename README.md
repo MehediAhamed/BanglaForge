@@ -58,7 +58,7 @@ Unlike binary "forged vs. authentic" datasets, BanglaForge reflects real-world c
 
 <!-- PLACE: Fig. 2 - Class distribution and label co-occurrence matrix -->
 <p align="center">
-  <img src="assets/fig2_stats.png" width="800">
+  <img src="assets/2.png" width="800">
   <br>
   <em>(a) Class distribution across five forgery types. (b) Normalized label co-occurrence matrix.</em>
 </p>
@@ -80,7 +80,7 @@ Four ViT-based architectures were fine-tuned with weighted binary cross-entropy 
 
 <!-- PLACE: Fig. 3 - Training dynamics of ViT models (Validation F1 & Loss curves) -->
 <p align="center">
-  <img src="assets/fig3_training_dynamics.png" width="800">
+  <img src="assets/fig_training_curves.png" width="800">
   <br>
   <em>Training dynamics of ViT models: (a) Validation F1 curves, (b) Validation loss curves for EVA02-Base and DeiT3-L.</em>
 </p>
@@ -99,7 +99,7 @@ Three frontier Large Vision-Language Models were evaluated zero-shot using struc
 
 <!-- PLACE: Fig. 4 - Radar chart comparing ViT-L (ROPE) vs LVLMs across 6 metrics -->
 <p align="center">
-  <img src="assets/fig4_radar_chart.png" width="500">
+  <img src="assets/fig_radar.png" width="500">
   <br>
   <em>ViT Architecture Comparison on BanglaForge Test Set across Precision, Recall, F1, mAP and Hamming Loss.</em>
 </p>
@@ -110,7 +110,7 @@ Three frontier Large Vision-Language Models were evaluated zero-shot using struc
 
 <!-- PLACE: Fig. 5 - Per-class F1 heatmap for all models -->
 <p align="center">
-  <img src="assets/fig5_heatmap.png" width="700">
+  <img src="assets/fig_perclass_heatmap.png" width="700">
   <br>
   <em>Per-class F1 heatmap for all models. Blue = high F1; red = low F1. White line separates fine-tuned ViTs (top) from zero-shot LVLMs (bottom).</em>
 </p>
