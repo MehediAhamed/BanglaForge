@@ -150,4 +150,12 @@ git clone https://github.com/MehediAhamed/BanglaForge.git
 
 ---
 
-## 📁 Repository Structure
+<!-- PLACE: Update structure to match actual repo layout before release -->
+
+---
+
+
+## 📄 License
+
+<!-- PLACE: Specify license (e.g., MIT, CC BY 4.0) -->
+This dataset is released under the [LICENSE NAME] license.
